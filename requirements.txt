@@ -1,0 +1,9 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+M2Crypto==0.41.0
+python-cvmfsutils @ git+https://github.com/DrDaveD/python-cvmfsutils@f6959c395263c2ea0215c8f6f048c4379f8d6d3b
+python-dateutil==2.9.0.post0
+requests==2.31.0
+six==1.16.0
+urllib3==2.2.1
